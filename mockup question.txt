@@ -1,0 +1,34 @@
+what is cloud computing and benefit of cloud computing
+constraints in sql
+index in sql
+view in table
+union and union all.
+types of join
+types of aggregate function
+wild card in sql
+diff b/n in and detween
+
+
+Componenet of DB
+what is auto scaling and auto terminate in DB
+what is job
+What is cluster and type of cluster
+how to create spark session
+How to create a Data Frame
+How to cretae blank data Frame
+Type cast a column
+*****create a column based on age numeric coulmn in categorical form.******
+Transformation in DB
+What are the DButill command
+***what is delta table ****************************************************
+What is ACID with all word definition.
+What is time travel.
+diff b/n data lake and delta lake.
+
+Azure:--
+How many activities in azure u have used.
+
+Resource group ==ratneshrg2
+Storage account name===ratneshsan
+
+prepare intro and project detail and role and responsibility
